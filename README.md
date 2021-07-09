@@ -1,28 +1,28 @@
 <!--Logo -->
-<h2 align="center">
+<h1 align="center">
     <img src="https://i.ibb.co/r5krrdz/logo.png" alt="Logo-Netflix" width="30%"/><br>
     Netflix Clone
-</h2>
+</h1>
 
 <!-- Descrição-->
-<h4 align="center">
+<h2 align="center">
 Recriação da interface da Netflix.
-</h4>
+</h2>
 
 <!--Navegação-->
-<nav align="center">
+<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
-</nav>
+</p>
 
 <!-- Print-->
 <p align="center">
   <img alt="print" src="/assets/img/print.jpg">
 </p>
 
-<!--Live-->
-### [Live Demo](https://diegosfc100.github.io/)
+<!--Live   ### [Live Demo](https://diegosfc100.github.io/)  -->
+
 
 <!--Tecnologias-->
 ## :rocket: Tecnologias:
