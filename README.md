@@ -1,7 +1,7 @@
 <!--Logo -->
 <h1 align="center">
     <img src="https://i.ibb.co/r5krrdz/logo.png" alt="Logo-Netflix" width="30%"/><br>
-    Netflix Clone
+    Netflix Clone 📺
 </h1>
 
 <!-- Descrição-->
@@ -20,6 +20,12 @@ Recriação da interface da Netflix.
 <p align="center">
   <img alt="print" src="/assets/img/print.jpg">
 </p>
+
+## 📋 Sobre:
+
+Projeto desenvolvido durante o bootcamp HTML Developer da Digital Innovation One.
+Pude reforçar os conhecimentos em HTML e CSS, aprofundando um pouco em Flexbox, também conheci um pouco sobre JQuery na criação do slider de filmes e também sobre responsividade com Media Query
+
 
 <!--Live   ### [Live Demo](https://diegosfc100.github.io/)  -->
 
